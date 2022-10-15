@@ -1,0 +1,4 @@
+- 👋 Hi, I’m cornellius agova
+- 👀 I’m interested in Web&Mobile
+- 💞️ I’m looking to collaborate on Open Source Project
+- 📫 How to reach me cornelliusagova45@gmail.com
